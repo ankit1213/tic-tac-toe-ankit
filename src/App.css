@@ -1,0 +1,10 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  /* background-color: #efefef; */
+  background-image: linear-gradient(to right,rgb(255,70,37), rgb(44, 135, 255));
+  font-family: 'Fredoka One', sans-serif;
+}
